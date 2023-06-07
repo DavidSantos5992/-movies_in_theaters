@@ -13,6 +13,10 @@
 
 My aplication React is construct for consomes a Api [The Movie DB](https://www.themoviedb.org/), with a goal to display the movies in theaters in a way updated, that update occurs in a way automatic, thanks to the interaction, between the aplication and the API from the Movies. the principal focus is to supply to users a experience dinamic, showing aways the movies most recent in exhibition. 
 
+<br>
+
+ ## -  [visit website](https://movies-in-theaters.vercel.app/)
+
 
 <br>
 
